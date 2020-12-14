@@ -68,7 +68,7 @@ after doing all levels, here is the result
 **NOTE** if you feel high latency, please check your bandwidth limits and player buffering.
 
 <p align='center'>
-    <img src="https://github.com/minajalili/tor_streamer/blob/master/Screnshots/photo_2020-12-14_14-49-47.jpg" height="450px"/>
-    <img src="https://github.com/minajalili/tor_streamer/blob/master/Screnshots/photo_2020-12-14_14-50-14.jpg" height="450px"/>
-    <img src="https://github.com/minajalili/tor_streamer/blob/master/Screnshots/photo_2020-12-14_14-50-21.jpg" height="450px"/>
+    <img src="https://github.com/minajalili/stream-live-video-on-TOR-network/blob/master/Screnshots/photo_2020-12-14_14-49-47.jpg" height="450px"/>
+    <img src="https://github.com/minajalili/stream-live-video-on-TOR-network/blob/master/Screnshots/photo_2020-12-14_14-50-14.jpg" height="450px"/>
+    <img src="https://github.com/minajalili/stream-live-video-on-TOR-network/blob/master/Screnshots/photo_2020-12-14_14-50-21.jpg" height="450px"/>
 </p>
