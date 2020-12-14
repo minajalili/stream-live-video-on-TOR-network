@@ -69,6 +69,10 @@ after doing all levels, here is the result
 
 <p align='center'>
     <img src="https://github.com/minajalili/stream-live-video-on-TOR-network/blob/master/Screnshots/photo_2020-12-14_14-49-47.jpg" height="450px"/>
+</p>
+<p align='center'> 
     <img src="https://github.com/minajalili/stream-live-video-on-TOR-network/blob/master/Screnshots/photo_2020-12-14_14-50-14.jpg" height="450px"/>
+</p>
+<p align='center'>
     <img src="https://github.com/minajalili/stream-live-video-on-TOR-network/blob/master/Screnshots/photo_2020-12-14_14-50-21.jpg" height="450px"/>
 </p>
